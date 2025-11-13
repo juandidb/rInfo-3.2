@@ -40,4 +40,18 @@ Proyecto sin fines oficiales, creado únicamente con fines educativos, estético
 
 ![Logo de rInfo 3.2](images/app-icon.png)
 
+
+
+---
+
+## ☕ Apoyá el proyecto
+
+<div align="center">
+
+Si te gustó **rInfo 3.2** podés invitarme un café:  
+
+[![Invitame un café en Cafecito](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/juandidb)
+
+</div>
+
 </div>

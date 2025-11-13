@@ -1,13 +1,16 @@
-# 🌙 Rinfo Modo Oscuro (No Oficial)
+#🌙 Rinfo 3.2 (No Oficial)
+
+![Logo de rInfo 3.2](images/app-icon.png)
 
 Versión modificada del entorno de programación **Rinfo**, desarrollado originalmente por la **UNLP**, adaptada con un tema oscuro y mejoras visuales para una experiencia moderna y más cómoda a la vista.
+
 
 ---
 
 ## 🆕 Novedades y mejoras
 
 - 🌑 **Modo oscuro completo** aplicado a toda la interfaz.  
-- 🎨 **Nuevos íconos** en la paleta de herramientas, con estilo plano y contrastes suaves.  
+- 🎨 **Nuevos íconos** tanto en la aplicación, como en la paleta de herramientas, con estilo plano y contrastes suaves.  
 - 🖋️ **Ajuste de colores de fuente** para mejorar la legibilidad del código.  
 - 💡 **Revisión de la paleta de colores** en menús, botones y fondos.  
 - 🪶 **Correcciones menores de estilo y alineación**.  
@@ -35,5 +38,5 @@ Versión modificada del entorno de programación **Rinfo**, desarrollado origina
 ## 🧩 Estado del proyecto
 Proyecto sin fines oficiales, creado únicamente con fines educativos, estéticos y experimentales.
 
+> ⚠️ Esta versión **no es oficial**. Todos los cambios fueron realizados con asistencia de ia, respetando la estructura y funcionamiento original del entorno.
 
-> ⚠️ Esta versión **no es oficial**. Todos los cambios fueron realizados con asistencia de IA, respetando la estructura y funcionamiento original del entorno.

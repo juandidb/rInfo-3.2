@@ -34,7 +34,7 @@ Versión modificada del entorno de programación **Rinfo**, desarrollado origina
 ---
 
 ## 🧩 Estado del proyecto
-Proyecto sin fines oficiales, creado únicamente con fines educativos, estéticos y experimentales.
+Proyecto sin fines oficiales ni de lucro, creado únicamente con fines estéticos y experimentales.
 
 
 ---

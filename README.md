@@ -24,6 +24,8 @@ Con esta actualización:
 
 Antes:<br>
 ![Vista previa](paletavieja.png) <br>
+
+
 Con esta actualización:<br>
 ![Vista previa](paletanueva1.png) <br>
 

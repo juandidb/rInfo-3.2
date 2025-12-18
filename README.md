@@ -30,7 +30,7 @@ Antes:<br>
 Con esta actualización:<br>
 ![Vista previa](paletanueva1.png) <br>
 
-
+##
 
 Antes: <br>
 ![Vista previa](iconosviejos.png) <br>

@@ -27,10 +27,10 @@ Antes:<br>
 Con esta actualización:<br>
 ![Vista previa](paletanueva1.png) <br>
 
-Antes:
-![Vista previa](iconosviejos.png)
-Con esta actualización:
-![Vista previa](iconosnuevos.png)
+Antes: <br>
+![Vista previa](iconosviejos.png) <br>
+Con esta actualización:<br>
+![Vista previa](iconosnuevos.png) <br>
 ---
 
 ## 🚀 Instalación

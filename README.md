@@ -31,6 +31,8 @@ Antes: <br>
 ![Vista previa](iconosviejos.png) <br>
 Con esta actualización:<br>
 ![Vista previa](iconosnuevos.png) <br>
+
+
 ---
 
 ## 🚀 Instalación

@@ -21,6 +21,7 @@ Antes:
 Con esta actualización:
 ![Vista previa](rInfo3.2.png)
   
+---
 
 Antes:<br>
 ![Vista previa](paletavieja.png) <br>

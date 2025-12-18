@@ -22,11 +22,11 @@ Con esta actualización:
 ![Vista previa](rInfo3.2.png)
   
 
-  Antes:
-![Vista previa](paletavieja.png)  
-  Con esta actualización:
-  ![Vista previa](paletanueva.png)
-  
+Antes:<br>
+![Vista previa](paletavieja.png) <br>
+Con esta actualización:<br>
+![Vista previa](paletanueva1.png) <br>
+
 Antes:
 ![Vista previa](iconosviejos.png)
 Con esta actualización:

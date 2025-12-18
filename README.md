@@ -16,6 +16,9 @@ Esta es una versión modificada del entorno de programación **Rinfo**, original
 ---
 
 ## 📸 Vista previa
+Antes:
+![Vista previa](rInfo3.1.png)
+Con esta actualización:
 ![Vista previa](rInfo3.2.png)
 
 ---

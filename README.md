@@ -7,10 +7,13 @@ Esta es una versión modificada del entorno de programación **Rinfo**, original
 
 ## 🆕 Novedades y mejoras
 
--  **Modo oscuro** en toda la interfaz.  
--  **Nuevos íconos** tanto en la aplicación, como en la paleta de herramientas.
+-  **Modo oscuro** en toda la interfaz.
+-  **Nuevo icono de acceso** a la aplicación.  
+-  **Nuevos íconos en la paleta de herramientas** siguiendo Material Design.
 -  **Ajuste de colores de fuente** para mejorar la legibilidad.  
--  **Revisión de la paleta de colores** en menús, botones y fondos.  
+-  **Revisión de la paleta de colores** en menús, botones y fondos.
+-  **Nueva barra de desplazamiento** acorde al diseño.
+-  **Nuevos iconos en la matriz de los robots** con mejor resolución.  
 -  **Correcciones menores de estilo y alineación**.  
 
 ---

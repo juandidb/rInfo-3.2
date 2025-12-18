@@ -21,6 +21,16 @@ Antes:
 Con esta actualización:
 ![Vista previa](rInfo3.2.png)
 
+
+Antes:
+![Vista previa](paletavieja.png)
+Con esta actualización:
+![Vista previa](paletanueva.png)
+
+Antes:
+![Vista previa](iconosviejos.png)
+Con esta actualización:
+![Vista previa](iconosnuevos.png)
 ---
 
 ## 🚀 Instalación

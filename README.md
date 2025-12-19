@@ -19,7 +19,7 @@ Esta es una versión modificada del entorno de programación **Rinfo**, original
 
 ---
 
-## 📸 Vista previa
+## Vista previa
 Antes:
 ![Vista previa](rInfo3.1.png)
 Con esta actualización:
@@ -46,7 +46,7 @@ Con esta actualización:<br>
 
 ---
 
-## 🚀 Instalación
+## Instalación
 1. Cloná este repositorio o descargá el `.jar` modificado.  
 2. Asegurate de tener **Java** instalado [**en su versión mas reciente**](https://www.oracle.com/java/technologies/downloads/), si usas una versión inferior a la 21, **no va a funcionar**
 3. Ejecutá el archivo `.jar` igual que la versión original de Rinfo.

@@ -71,7 +71,7 @@ Proyecto sin fines oficiales ni de lucro, creado únicamente con fines estético
 ---
 
 
-> Esta versión **no es oficial**. Todos los cambios fueron realizados con asistencia de ia, respetando la estructura y funcionamiento original del entorno.
+> Esta versión **no es oficial**. Todos los cambios se hicieron respetando la estructura y funcionamiento original del entorno.
 
 ![Logo de rInfo 3.2](images/app-icon.png)
 

@@ -10,7 +10,7 @@ Esta es una versión modificada del entorno de programación **Rinfo**, original
 -  **Modo oscuro** en toda la interfaz.
 -  **Nuevo icono de acceso** a la aplicación.  
 -  **Nuevos íconos en la paleta de herramientas** siguiendo Material Design.
-'  **Efecto hover en los iconos de la paleta de herramientas**
+-  **Efecto hover en los iconos de la paleta de herramientas**
 -  **Ajuste de colores de fuente** para mejorar la legibilidad.  
 -  **Revisión de la paleta de colores** en menús, botones y fondos.
 -  **Nueva barra de desplazamiento** acorde al diseño.

@@ -1,4 +1,4 @@
-<h1 align="center">🌆 <b>rInfo 3.2</b></h1>
+<h1 align="center"><b>rInfo 3.2</b></h1>
 <div align="center">
 
 Esta es una versión modificada del entorno de programación **rInfo**, originalmente desarrollado por la **UNLP**, con implementación de tema oscuro y otras mejoras visuales para una experiencia visual más cómoda a la vista.

@@ -59,7 +59,7 @@ Con esta actualización:<br>
 
 ---
 
-## 🧩 Estado del proyecto
+## Estado del proyecto
 Proyecto sin fines oficiales ni de lucro, creado únicamente con fines estéticos y experimentales.
 
 
